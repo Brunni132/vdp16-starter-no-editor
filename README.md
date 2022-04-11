@@ -1,3 +1,6 @@
+# Deprecated
+Start with: https://github.com/Brunni132/vdp16-sample-game
+
 # Readme
 
 Clone the repository.
